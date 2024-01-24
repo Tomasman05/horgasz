@@ -1,3 +1,3 @@
 public class Places {
-    Place[] helyek;
+    Place[] fishingspots;
 }
